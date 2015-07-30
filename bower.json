@@ -1,0 +1,20 @@
+{
+  "name": "split_app_and_vendor_code",
+  "version": "0.0.0",
+  "homepage": "https://github.com/lichunqiang/webpack-research",
+  "authors": [
+    "lichunqiang <light-li@hotmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "underscore": "~1.8.3"
+  }
+}
