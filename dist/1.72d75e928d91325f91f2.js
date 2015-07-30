@@ -1,0 +1,1 @@
+seajs([1],{2:function(n,o,s){(function(o){s(3),console.log(o),n.exports="this is c.js"}).call(o,s(3))}});

@@ -1,0 +1,1 @@
+seajs([2],[function(o,n,s){(function(o){var n=s(4);s(5),s(1),n.each([1,2,4],function(o,n){console.log(n,o)}),o(function(){console.log("document ready")})}).call(n,s(3))},function(o,n){console.log("this is b.js")}]);

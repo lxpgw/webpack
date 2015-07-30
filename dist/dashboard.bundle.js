@@ -1,0 +1,1 @@
+seajs([0],[function(e,t,n){n(1),n.e(1,function(e){var t=[e(2)];(function(e){console.log(e),console.log(".....")}).apply(null,t)})},function(e,t){console.log("this is b.js")}]);

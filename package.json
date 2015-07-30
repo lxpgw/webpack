@@ -9,8 +9,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "del": "^1.2.0",
+    "uglify-loader": "^1.2.0",
     "webpack": "^1.10.5"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }

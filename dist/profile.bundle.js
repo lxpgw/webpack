@@ -1,0 +1,1 @@
+seajs([3],[function(o,n,s){s(5);var c=s(4);console.log(c)}]);
